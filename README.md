@@ -29,6 +29,8 @@ This project would be available so that it can be used regularly as the first po
 * General Data Protection Regulation (GDPR)
     * Articles
     * Books
+      * For Businesses: https://ec.europa.eu/commission/sites/beta-political/files/ds-02-18-544-en-n.pdf
+      * For Citizens: https://ec.europa.eu/commission/sites/beta-political/files/data-protection-factsheet-citizens_en_1.pdf
 * California Consumer Privacy Act (CCPA)
 * Health Insurance Portability and Accountability Act (HIPAA)
 * Data Breaches
