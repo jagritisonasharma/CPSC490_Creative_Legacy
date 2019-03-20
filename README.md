@@ -40,6 +40,10 @@ This project would be available so that it can be used regularly as the first po
 | Website | GDPR Compliant? | ISO/IEC 27001 Certified | Data Sensitivity | # of data breaches | More Information |
 | --- | --- | --- | --- | --- | --- |
 | facebook.com | Y | Y | 2 | 3 | [Click here](./Companies_Data/facebook.md) |
+| twitter.com| |   |   |   |   |  [Click here] (./Companies_Data/twitter.md)|
+| uber.com| |   |   |   |   |  [Click here] (./Companies_Data/uber.md)|
+
+
 
 ## Related
 
