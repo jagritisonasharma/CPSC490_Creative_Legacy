@@ -1,22 +1,15 @@
 # Data Privacy Awareness
+
 A curated list of resources for learning about data privacy. Contains books, websites, blog posts, self-assessment quizzes and an aggregrated list of companies and their commitment to data privacy.
 
 The following is the Creative Legacy Assignment for CPSC 490 and is an open source project. It is maintained by Jagriti Sharma with contributions from the application security and developer communities.
 
 ## Contributing
-
 Your contributions are always welcome! [Please refer to the contributing guide for details](CONTRIBUTING.md).
 
 I will keep some pull requests open if I'm not sure whether those libraries are awesome, you could [vote for them](https://github.com/jagritisonasharma/data-privacy/pulls) by adding :+1: to them. Pull requests will be merged when their votes reach **20**.
 
-
-## The Project and Goal
-
-This is an open source project, and anyone can add and keep the list of companies growing. 
-
-Thanks to all contributors, you're awesome and wouldn't be possible without you! The goal is to build a categorized community-driven collection of very well-known resources and information. 
-
-# Inspiration 
+## Inspiration 
 Inspiration for this project has stemmed from [informationisbeautiful](https://informationisbeautiful.net/visualizations/worlds-biggest-data-breaches-hacks/).
 Since they are a private organization, their list centrally maintained and cannot grow with the help of a community. This project is initiated to overcome that. My hope is that this project will be maintained by a community of data privacy enthusiasts and developers, and will keep expanding.
 
@@ -38,14 +31,16 @@ This project would be available so that it can be used regularly as the first po
 * California Consumer Privacy Act (CCPA)
 * Health Insurance Portability and Accountability Act (HIPAA)
 * Data Breaches
+* Internet Censorship
+   * [Interney Censorship Around The World](https://www.efa.org.au/Issues/Censor/cens3.html?fbclid=IwAR1LL5ygMf01Mm6zxpPM2bM6DUwM1rTqxE1YKt4PUeAQ8dlSczn9GJ9Aecw)
 
 ## Aggregrated Statistics on Websites
 
 | Website | GDPR Compliant? | ISO/IEC 27001 Certified | Data Sensitivity | # of data breaches | More Information |
 | --- | --- | --- | --- | --- | --- |
-| facebook.com | Y | Y | 2 | 3 | [Click here](./Companies_Data/facebook.md) |
-| twitter.com| |   |   |   |   |  [Click here](./Companies_Data/twitter.md)|
-| uber.com| |   |   |   |   |  [Click here](./Companies_Data/uber.md)|
+| facebook.com | Y | Y | 2 | 3 | [Click here](./Companies_Data/facebook.md)|
+| twitter.com| |   |   |   |   | [Click here](./Companies_Data/twitter.md)|
+| uber.com| |   |   |   |   | [Click here](./Companies_Data/uber.md)|
 
 
 
