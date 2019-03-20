@@ -46,7 +46,7 @@ This project would be available so that it can be used regularly as the first po
 | instagram.com | Y | Y |  |  | [Click here](./Companies_Data/instagram.md)|
 | netflix.com | Y | Y |  |  | [Click here](./Companies_Data/netflix.md)|
 | snapchat.com | Y | Y |  |  | [Click here](./Companies_Data/snapchat.md)|
-| twitter.com| Y |   |   |   |   | [Click here](./Companies_Data/twitter.md)|
+| twitter.com| Y |   |   |   | [Click here](./Companies_Data/twitter.md)|
 | yahoo.com | Y | Y |  |  | [Click here](./Companies_Data/yahoo.md)|
 | youtube.com | Y | Y |  |  | [Click here](./Companies_Data/youtube.md)|
 | uber.com| |   |   |   |   | [Click here](./Companies_Data/uber.md)|
