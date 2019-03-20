@@ -3,23 +3,23 @@ A curated list of resources for learning about data privacy. Contains books, web
 
 The following is the Creative Legacy Assignment for CPSC 490 and is an open source project. It is maintained by Jagriti Sharma with contributions from the application security and developer communities.
 
-# Contributing
+## Contributing
 
 Your contributions are always welcome! [Please refer to the contributing guide for details](CONTRIBUTING.md).
 
 I will keep some pull requests open if I'm not sure whether those libraries are awesome, you could [vote for them](https://github.com/jagritisonasharma/data-privacy/pulls) by adding :+1: to them. Pull requests will be merged when their votes reach **20**.
 
 
-# Audience
+## Audience
 This project is intended for users who want to learn more about data privacy, regulations around data privacy and access information on a company's implemented privacy and ethics policies and protocols.
 
 ## Inspiration 
 Inspiration for this project has stemmed from (informationisbeautiful)[https://informationisbeautiful.net/visualizations/worlds-biggest-data-breaches-hacks/]. Since they are a private organization, their list centrally maintained and cannot grow with the help of a community. This project is initiated to overcome that. My hope is that this project will be maintained by a community of data privacy enthusiasts and developers, and will keep expanding.
 
-# Legacy
+## Legacy
 This project would be available so that it can be used regularly as the first point of brief research regarding company security and privacy policy summaries and histories. It will be impactful as it will collate lots of disorganized data and always be available to help with any sort of research in the future. It is also self-sustainable as anyone can contribute to the project to keep adding new companies and more information.
 
-# Data Privacy Learning Resources
+## Data Privacy Learning Resources
 
 * Inroduction to Data Privacy
     * Articles
@@ -33,15 +33,15 @@ This project would be available so that it can be used regularly as the first po
 * Health Insurance Portability and Accountability Act (HIPAA)
 * Data Breaches
 
-# Aggregrated Statistics on Websites
+## Aggregrated Statistics on Websites
 [TODO]
 
-# Related
+## Related
 
 - [Awesome GDPR](https://github.com/erichard/awesome-gdpr) - Resources for developers to make their applications GDPR Compliant.
 
 
-# License
+## License
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
