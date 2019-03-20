@@ -10,8 +10,11 @@ Your contributions are always welcome! [Please refer to the contributing guide f
 I will keep some pull requests open if I'm not sure whether those libraries are awesome, you could [vote for them](https://github.com/jagritisonasharma/data-privacy/pulls) by adding :+1: to them. Pull requests will be merged when their votes reach **20**.
 
 
-## Audience
-This project is intended for users who want to learn more about data privacy, regulations around data privacy and access information on a company's implemented privacy and ethics policies and protocols.
+## The Project and Goal
+
+This is an open source project, and anyone can add and keep the list of companies growing. 
+
+Thanks to all contributors, you're awesome and wouldn't be possible without you! The goal is to build a categorized community-driven collection of very well-known resources and information. 
 
 # Inspiration 
 Inspiration for this project has stemmed from [informationisbeautiful](https://informationisbeautiful.net/visualizations/worlds-biggest-data-breaches-hacks/).
