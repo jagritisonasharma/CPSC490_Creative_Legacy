@@ -13,9 +13,6 @@ I will keep some pull requests open if I'm not sure whether those libraries are 
 ## Audience
 This project is intended for users who want to learn more about data privacy, regulations around data privacy and access information on a company's implemented privacy and ethics policies and protocols.
 
-## Inspiration 
-Inspiration for this project has stemmed from (informationisbeautiful)[https://informationisbeautiful.net/visualizations/worlds-biggest-data-breaches-hacks/]. Since they are a private organization, their list centrally maintained and cannot grow with the help of a community. This project is initiated to overcome that. My hope is that this project will be maintained by a community of data privacy enthusiasts and developers, and will keep expanding.
-
 # Inspiration 
 Inspiration for this project has stemmed from [informationisbeautiful](https://informationisbeautiful.net/visualizations/worlds-biggest-data-breaches-hacks/).
 Since they are a private organization, their list centrally maintained and cannot grow with the help of a community. This project is initiated to overcome that. My hope is that this project will be maintained by a community of data privacy enthusiasts and developers, and will keep expanding.
@@ -33,8 +30,8 @@ This project would be available so that it can be used regularly as the first po
 * General Data Protection Regulation (GDPR)
     * Articles
     * Books
-      * For Businesses: https://ec.europa.eu/commission/sites/beta-political/files/ds-02-18-544-en-n.pdf
-      * For Citizens: https://ec.europa.eu/commission/sites/beta-political/files/data-protection-factsheet-citizens_en_1.pdf
+      * [Seven steps for businesses to get ready for the General Data Protection Regulation](https://ec.europa.eu/commission/sites/beta-political/files/ds-02-18-544-en-n.pdf)
+      * [EU Data Protection Reform better data protection rights for European citizens](https://ec.europa.eu/commission/sites/beta-political/files/data-protection-factsheet-citizens_en_1.pdf)
 * California Consumer Privacy Act (CCPA)
 * Health Insurance Portability and Accountability Act (HIPAA)
 * Data Breaches
