@@ -16,8 +16,12 @@ This project is intended for users who want to learn more about data privacy, re
 ## Inspiration 
 Inspiration for this project has stemmed from (informationisbeautiful)[https://informationisbeautiful.net/visualizations/worlds-biggest-data-breaches-hacks/]. Since they are a private organization, their list centrally maintained and cannot grow with the help of a community. This project is initiated to overcome that. My hope is that this project will be maintained by a community of data privacy enthusiasts and developers, and will keep expanding.
 
+# Inspiration 
+Inspiration for this project has stemmed from [informationisbeautiful](https://informationisbeautiful.net/visualizations/worlds-biggest-data-breaches-hacks/).
+Since they are a private organization, their list centrally maintained and cannot grow with the help of a community. This project is initiated to overcome that. My hope is that this project will be maintained by a community of data privacy enthusiasts and developers, and will keep expanding.
+
 ## Legacy
-This project would be available so that it can be used regularly as the first point of brief research regarding company security and privacy policy summaries and histories. It will be impactful as it will collate lots of disorganized data and always be available to help with any sort of research in the future. It is also self-sustainable as anyone can contribute to the project to keep adding new companies and more information.
+This project would be available so that it can be used regularly as the first point of brief research regarding company security and privacy policy summaries and histories. It will be impactful as it will collate lots of disorganized data and always be available to help with any sort of research in the future. It is also self-sustainable as anyone can contribute to the project to keep adding new companies and more information. 
 
 ## Data Privacy Learning Resources
 
@@ -40,8 +44,8 @@ This project would be available so that it can be used regularly as the first po
 | Website | GDPR Compliant? | ISO/IEC 27001 Certified | Data Sensitivity | # of data breaches | More Information |
 | --- | --- | --- | --- | --- | --- |
 | facebook.com | Y | Y | 2 | 3 | [Click here](./Companies_Data/facebook.md) |
-| twitter.com| |   |   |   |   |  [Click here] (./Companies_Data/twitter.md)|
-| uber.com| |   |   |   |   |  [Click here] (./Companies_Data/uber.md)|
+| twitter.com| |   |   |   |   |  [Click here](./Companies_Data/twitter.md)|
+| uber.com| |   |   |   |   |  [Click here](./Companies_Data/uber.md)|
 
 
 
