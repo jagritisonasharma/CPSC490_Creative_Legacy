@@ -29,7 +29,8 @@ This project would be available so that it can be used regularly as the first po
       * [Seven steps for businesses to get ready for the General Data Protection Regulation](https://ec.europa.eu/commission/sites/beta-political/files/ds-02-18-544-en-n.pdf)
       * [EU Data Protection Reform better data protection rights for European citizens](https://ec.europa.eu/commission/sites/beta-political/files/data-protection-factsheet-citizens_en_1.pdf)
 * California Consumer Privacy Act (CCPA)
-* Health Insurance Portability and Accountability Act (HIPAA)
+* ISO/IEC 27001 
+      *  [ISO/IEC 27001  Wiki](https://en.wikipedia.org/wiki/ISO/IEC_27001) 
 * Data Breaches
 * Internet Censorship
    * [Interney Censorship Around The World](https://www.efa.org.au/Issues/Censor/cens3.html?fbclid=IwAR1LL5ygMf01Mm6zxpPM2bM6DUwM1rTqxE1YKt4PUeAQ8dlSczn9GJ9Aecw)
@@ -38,11 +39,23 @@ This project would be available so that it can be used regularly as the first po
 
 | Website | GDPR Compliant? | ISO/IEC 27001 Certified | Data Sensitivity | # of data breaches | More Information |
 | --- | --- | --- | --- | --- | --- |
+| amazon.com | Y | Y |  |  | [Click here](./Companies_Data/amazon.md)|
 | facebook.com | Y | Y | 2 | 3 | [Click here](./Companies_Data/facebook.md)|
-| twitter.com| |   |   |   |   | [Click here](./Companies_Data/twitter.md)|
+| gate.io | Y | Y |  |  | [Click here](./Companies_Data/gate.md)|
+| google.com | Y | Y |  |  | [Click here](./Companies_Data/google.md)|
+| instagram.com | Y | Y |  |  | [Click here](./Companies_Data/instagram.md)|
+| netflix.com | Y | Y |  |  | [Click here](./Companies_Data/netflix.md)|
+| snapchat.com | Y | Y |  |  | [Click here](./Companies_Data/snapchat.md)|
+| twitter.com| Y |   |   |   |   | [Click here](./Companies_Data/twitter.md)|
+| yahoo.com | Y | Y |  |  | [Click here](./Companies_Data/yahoo.md)|
+| youtube.com | Y | Y |  |  | [Click here](./Companies_Data/youtube.md)|
 | uber.com| |   |   |   |   | [Click here](./Companies_Data/uber.md)|
 
 
+## Take Action
+* Hacking
+   * Blogs
+      * [Protect Yourself From Being Hacked](https://sites.google.com/view/prevent-being-hacked/home)
 
 ## Related
 
