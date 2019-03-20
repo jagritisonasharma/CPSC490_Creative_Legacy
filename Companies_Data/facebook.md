@@ -17,8 +17,8 @@ If you don't use the app anymore, just delete it by clicking on the x.
 
 ## Data Breaches
 ### Data Breach 1
-Date: October 2018
-Reason: Hackers: 
-Explanation: Malicious third-party scrapers collected profile information from many Facebook users.
-Records lost: 29000000
+* Date: October 2018
+* Reason: Hackers: 
+* Explanation: Malicious third-party scrapers collected profile information from many Facebook users.
+* Records lost: 29000000
 ### Data Breach 2
