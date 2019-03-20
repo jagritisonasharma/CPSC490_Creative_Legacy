@@ -34,7 +34,10 @@ This project would be available so that it can be used regularly as the first po
 * Data Breaches
 
 ## Aggregrated Statistics on Websites
-[TODO]
+
+| Website | GDPR Compliant? | ISO/IEC 27001 Certified | Data Sensitivity | # of data breaches | More Information |
+| --- | --- | --- | --- | --- | --- |
+| facebook.com | Y | Y | 2 | 3 | [Click here](./Companies_Data/facebook.md) |
 
 ## Related
 
