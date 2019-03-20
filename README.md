@@ -1,10 +1,11 @@
 # CPSC490_Creative_Legacy
 The following is the Creative Legacy Assignment for CPSC 490. 
+
+## The Project and Goal
+
 This is an open source project, and anyone can add and keep the list of companies growing. 
 
 Thanks to all contributors, you're awesome and wouldn't be possible without you! The goal is to build a categorized community-driven collection of very well-known resources and information. 
-
-## The Project and Goal
 
 
 ## Inspiration 
@@ -14,7 +15,6 @@ This project will also expand on the data on the webstie regarding the number of
 
 ## Legacy
 This project would be available so that it can be used regularly as the first point of brief research regarding company security and privacy policy summaries and histories. It will be impactful as it will collate lots of disorganized data and always be available to help with any sort of research in the future. It is also self-sustainable as anyone can contribute to the project to keep adding new companies and more information. 
-
 
 
 
