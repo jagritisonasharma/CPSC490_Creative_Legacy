@@ -7,11 +7,8 @@ Amazon is really passionate to comply with GDPR. In addition to our own complian
 Amazon.com posted a new privacy policy on its Web site that's aimed at giving online shoppers a better idea of exactly what happens to the personal information they willingly give the company -- not to mention the data they inadvertently leave behind.
 One key modification made by Amazon is a promise that it won't trade personal data to other companies without first getting permission from individual customers. The company previously reserved the right to buy, sell and trade such information at will, although the spokeswoman said it never actually did so.
 
-
 * Links
     * [5 Amazon default settings you must change now to increase your privacy](https://www.komando.com/tips/470577/5-amazon-default-settings-you-must-change-now-to-increase-your-privacy)
-
-
 
 ## Data Breaches
 ### Data Breach 1

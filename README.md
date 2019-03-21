@@ -25,13 +25,17 @@ This project would be available so that it can be used regularly as the first po
       * [Data Privacy: Principles and Practice](https://www.amazon.com/Data-Privacy-Principles-Nataraj-Venkataramanan/dp/1498721044/ref=sr_1_3?keywords=Data+Privacy&qid=1553109710&s=books&sr=1-3)
 * General Data Protection Regulation (GDPR)
     * Articles
+      * 
     * Books
       * [Seven steps for businesses to get ready for the General Data Protection Regulation](https://ec.europa.eu/commission/sites/beta-political/files/ds-02-18-544-en-n.pdf)
       * [EU Data Protection Reform better data protection rights for European citizens](https://ec.europa.eu/commission/sites/beta-political/files/data-protection-factsheet-citizens_en_1.pdf)
 * California Consumer Privacy Act (CCPA)
-* ISO/IEC 27001 
-      * [ISO/IEC 27001  Wiki](https://en.wikipedia.org/wiki/ISO/IEC_27001) 
+* ISO/IEC 27001
+      * Articles
+       * [ISO/IEC 27001  Wikipedia](https://en.wikipedia.org/wiki/ISO/IEC_27001) 
 * Data Breaches
+      * Websites
+            * [informationisbeautiful](https://informationisbeautiful.net/visualizations/worlds-biggest-data-breaches-hacks/)
 * Internet Censorship
    * [Interney Censorship Around The World](https://www.efa.org.au/Issues/Censor/cens3.html?fbclid=IwAR1LL5ygMf01Mm6zxpPM2bM6DUwM1rTqxE1YKt4PUeAQ8dlSczn9GJ9Aecw)
 
@@ -41,8 +45,8 @@ This project would be available so that it can be used regularly as the first po
 | --- | --- | --- | --- | --- | --- |
 | amazon.com | Y | Y |  | 1 | [Click here](./Companies_Data/amazon.md)|
 | facebook.com | Y | Y | 2 | 3 | [Click here](./Companies_Data/facebook.md)|
-| google.com | Y | Y |  |  | [Click here](./Companies_Data/google.md)|
-| twitter.com| Y |   |   |  5 | [Click here](./Companies_Data/twitter.md)|
+| google.com | Y | Y |  | 1 | [Click here](./Companies_Data/google.md)|
+| twitter.com| Y | Y  |   |  5 | [Click here](./Companies_Data/twitter.md)|
 | uber.com| Y |   |   | 1 | [Click here](./Companies_Data/uber.md)|
 
 
