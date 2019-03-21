@@ -43,9 +43,8 @@ This project would be available so that it can be used regularly as the first po
 | facebook.com | Y | Y | 2 | 3 | [Click here](./Companies_Data/facebook.md)|
 | gate.io | Y | Y |  |  | [Click here](./Companies_Data/gate.md)|
 | google.com | Y | Y |  |  | [Click here](./Companies_Data/google.md)|
-| snapchat.com | Y | Y |  |  | [Click here](./Companies_Data/snapchat.md)|
 | twitter.com| Y |   |   |   | [Click here](./Companies_Data/twitter.md)|
-| uber.com| Y |   |   |   |  1 | [Click here](./Companies_Data/uber.md)|
+| uber.com| Y |   |   | 1 | [Click here](./Companies_Data/uber.md)|
 
 
 ## Take Action
