@@ -11,9 +11,9 @@ I will keep some pull requests open if I'm not sure whether those libraries are 
 
 ## Inspiration 
 Inspiration for this project has stemmed from [informationisbeautiful](https://informationisbeautiful.net/visualizations/worlds-biggest-data-breaches-hacks/).
-Since they are a private organization, their list centrally maintained and cannot grow with the help of a community. This project is initiated to overcome that. My hope is that this project will be maintained by a community of data privacy enthusiasts and developers, and will keep expanding.
+Since they are a private organization, their list centrally maintained and cannot grow with the help of a community. This project is initiated to overcome that. My hope is that this project will be maintained by a communit y of data privacy enthusiasts and developers, and will keep expanding.
 
-## Legacy
+## Legacy and Ultimate Goal
 This project would be available so that it can be used regularly as the first point of brief research regarding company security and privacy policy summaries and histories. It will be impactful as it will collate lots of disorganized data and always be available to help with any sort of research in the future. It is also self-sustainable as anyone can contribute to the project to keep adding new companies and more information. 
 
 ## Data Privacy Learning Resources
@@ -43,13 +43,9 @@ This project would be available so that it can be used regularly as the first po
 | facebook.com | Y | Y | 2 | 3 | [Click here](./Companies_Data/facebook.md)|
 | gate.io | Y | Y |  |  | [Click here](./Companies_Data/gate.md)|
 | google.com | Y | Y |  |  | [Click here](./Companies_Data/google.md)|
-| instagram.com | Y | Y |  |  | [Click here](./Companies_Data/instagram.md)|
-| netflix.com | Y | Y |  |  | [Click here](./Companies_Data/netflix.md)|
 | snapchat.com | Y | Y |  |  | [Click here](./Companies_Data/snapchat.md)|
 | twitter.com| Y |   |   |   | [Click here](./Companies_Data/twitter.md)|
-| yahoo.com | Y | Y |  |  | [Click here](./Companies_Data/yahoo.md)|
-| youtube.com | Y | Y |  |  | [Click here](./Companies_Data/youtube.md)|
-| uber.com| |   |   |   |   | [Click here](./Companies_Data/uber.md)|
+| uber.com| Y |   |   |   |  1 | [Click here](./Companies_Data/uber.md)|
 
 
 ## Take Action

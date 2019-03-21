@@ -7,6 +7,23 @@ Twitter will be updating various terms including in instances where Twitter is y
 
 
 ## Privacy Features and Tools
+### Mute Features
+* Accounts
+    * No longer want to see Tweets from someone in your timeline or notifications without blocking them? You can mute an account, and unmute it any time.
+* Words
+    * Avoid language you don’t want to see by blocking specific words. You can choose to block them for 24 hours, seven days, 30 days, or forever. Muted words, hashtags, phrases and more won’t appear on your timeline or in your notifications.
+* Conversations
+    * Muting a conversation stops notifications related to a Tweet you're a part of, without blocking anyone or removing the conversation from your Home timeline.
+### Block Feature
+If you want to, you can block any account instantly. When you do, they can’t see your Tweets or message you when you’re logged in. If your profile is public, users you have blocked may still be able to see your Tweets if they are logged out. We also offer the option to protect your account.
+### Sensitive Media
+* Safe Search
+    * The safe search function removes potentially sensitive content by default, as well as accounts people have blocked and muted, from all search pages.
+### Notification Filter
+Get an extra level of control by filtering the types of accounts you see in your notifications timeline. You can choose to stop seeing notifications from certain kinds of accounts.
+
+
+
 
 ## Data Breaches
 ### Data Breach 1
