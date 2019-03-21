@@ -7,7 +7,7 @@ The following is the Creative Legacy Assignment for CPSC 490 and is an open sour
 ## Contributing
 Your contributions are always welcome! [Please refer to the contributing guide for details](CONTRIBUTING.md).
 
-I will keep some pull requests open if I'm not sure whether those libraries are awesome, you could [vote for them](https://github.com/jagritisonasharma/data-privacy/pulls) by adding :+1: to them. Pull requests will be merged when their votes reach **20**.
+I will keep some pull requests open if I'm not sure whether those libraries are awesome, you could [vote for them](https://github.com/jagritisonasharma/data-privacy/pulls) by adding :+1: to them. Pull requests will be merged when their votes reach **10**.
 
 ## Inspiration 
 Inspiration for this project has stemmed from [informationisbeautiful](https://informationisbeautiful.net/visualizations/worlds-biggest-data-breaches-hacks/).
@@ -30,7 +30,7 @@ This project would be available so that it can be used regularly as the first po
       * [EU Data Protection Reform better data protection rights for European citizens](https://ec.europa.eu/commission/sites/beta-political/files/data-protection-factsheet-citizens_en_1.pdf)
 * California Consumer Privacy Act (CCPA)
 * ISO/IEC 27001 
-      *  [ISO/IEC 27001  Wiki](https://en.wikipedia.org/wiki/ISO/IEC_27001) 
+      * [ISO/IEC 27001  Wiki](https://en.wikipedia.org/wiki/ISO/IEC_27001) 
 * Data Breaches
 * Internet Censorship
    * [Interney Censorship Around The World](https://www.efa.org.au/Issues/Censor/cens3.html?fbclid=IwAR1LL5ygMf01Mm6zxpPM2bM6DUwM1rTqxE1YKt4PUeAQ8dlSczn9GJ9Aecw)
@@ -39,11 +39,10 @@ This project would be available so that it can be used regularly as the first po
 
 | Website | GDPR Compliant? | ISO/IEC 27001 Certified | Data Sensitivity | # of data breaches | More Information |
 | --- | --- | --- | --- | --- | --- |
-| amazon.com | Y | Y |  |  | [Click here](./Companies_Data/amazon.md)|
+| amazon.com | Y | Y |  | 1 | [Click here](./Companies_Data/amazon.md)|
 | facebook.com | Y | Y | 2 | 3 | [Click here](./Companies_Data/facebook.md)|
-| gate.io | Y | Y |  |  | [Click here](./Companies_Data/gate.md)|
 | google.com | Y | Y |  |  | [Click here](./Companies_Data/google.md)|
-| twitter.com| Y |   |   |   | [Click here](./Companies_Data/twitter.md)|
+| twitter.com| Y |   |   |  5 | [Click here](./Companies_Data/twitter.md)|
 | uber.com| Y |   |   | 1 | [Click here](./Companies_Data/uber.md)|
 
 
