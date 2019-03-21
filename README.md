@@ -43,11 +43,11 @@ This project would be available so that it can be used regularly as the first po
 
 | Website | GDPR Compliant? | ISO/IEC 27001 Certified | Data Sensitivity | # of data breaches | More Information |
 | --- | --- | --- | --- | --- | --- |
-| amazon.com | Y | Y |  | 1 | [Click here](./Companies_Data/amazon.md)|
+| amazon.com | Y | Y | 2 | 1 | [Click here](./Companies_Data/amazon.md)|
 | facebook.com | Y | Y | 2 | 3 | [Click here](./Companies_Data/facebook.md)|
-| google.com | Y | Y |  | 1 | [Click here](./Companies_Data/google.md)|
-| twitter.com| Y | Y  |   |  5 | [Click here](./Companies_Data/twitter.md)|
-| uber.com| Y |   |   | 1 | [Click here](./Companies_Data/uber.md)|
+| google.com | Y | Y | 2 | 1 | [Click here](./Companies_Data/google.md)|
+| twitter.com| Y | N/A  |  1 |  5 | [Click here](./Companies_Data/twitter.md)|
+| uber.com| Y |  N/A |  2 | 1 | [Click here](./Companies_Data/uber.md)|
 
 
 ## Take Action
