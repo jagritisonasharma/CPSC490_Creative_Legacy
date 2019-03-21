@@ -31,9 +31,11 @@ This project would be available so that it can be used regularly as the first po
       * [EU Data Protection Reform better data protection rights for European citizens](https://ec.europa.eu/commission/sites/beta-political/files/data-protection-factsheet-citizens_en_1.pdf)
 * California Consumer Privacy Act (CCPA)
 * ISO/IEC 27001
-   * [ISO/IEC 27001  Wikipedia](https://en.wikipedia.org/wiki/ISO/IEC_27001) 
+   * Articles
+      * [ISO/IEC 27001  Wikipedia](https://en.wikipedia.org/wiki/ISO/IEC_27001) 
 * Data Breaches
-   * [informationisbeautiful](https://informationisbeautiful.net/visualizations/worlds-biggest-data-breaches-hacks/)
+   * Website
+      * [informationisbeautiful](https://informationisbeautiful.net/visualizations/worlds-biggest-data-breaches-hacks/)
 * Internet Censorship
    * [Interney Censorship Around The World](https://www.efa.org.au/Issues/Censor/cens3.html?fbclid=IwAR1LL5ygMf01Mm6zxpPM2bM6DUwM1rTqxE1YKt4PUeAQ8dlSczn9GJ9Aecw)
 
